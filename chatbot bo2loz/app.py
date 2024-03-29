@@ -14,7 +14,7 @@ load_dotenv()
 import os
 
 # Set the environment variable
-os.environ["GOOGLE_API_KEY"] = "AIzaSyAwEv37jsA7cY68mHPq5EC_N9aeCLbu9bA"
+os.environ["GOOGLE_API_KEY"] = ""
 
 def get_pdf_text(pdf_docs):
     text = ""
