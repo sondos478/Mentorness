@@ -1,0 +1,8 @@
+python-dotenv
+streamlit
+pillow
+pdf2image
+google-cloud-vision
+pdfplumber
+python-docx
+google-generativeai
