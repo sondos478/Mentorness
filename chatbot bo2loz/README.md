@@ -1,5 +1,5 @@
 # Bo2loz: A Conversational AI for PDF Files
-![bo2loz image](assets\Picture1.png)
+<img src="./assets/Picture1.png"/>
 ## Introduction
 Bo2loz is a conversational AI that allows users to ask questions about PDF files and receive detailed answers. This project uses the Langchain library to process PDF files, extract text, and generate answers to user questions.
 
